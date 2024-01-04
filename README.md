@@ -1,4 +1,13 @@
-### Hi there 👋
+<a href="mailto:topahande@gmail.com" target="_blank" rel="nofollow"><img align="right" alt="Hande's email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/gmail.svg" /></a><a href="https://www.linkedin.com/in/htopa/" target="_blank" rel="nofollow"><img align="right" alt="Hande's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+
+### Hi, I am Hande 👋
+
+<p align="left">
+I'm a statistician, data scientist and a bioinformatician with over a decade of research experience. I'm a continuous learner and I strive to keep up to date with modern technologies in data science. So, here is my playground where I play with these technologies and do some small projects. 
+</p> 
+
+********************************
+
 
 <!--
 **topahande/topahande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
