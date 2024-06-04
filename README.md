@@ -3,7 +3,7 @@
 ### Hi, I am Hande 👋
 
 <p align="left">
-I'm a statistician, data scientist and a bioinformatician with over a decade of research experience. I'm a continuous learner and I strive to keep up to date with modern technologies in data science. So, here is my playground where I play with these technologies and do some small projects. 
+I'm a statistician and data scientist with over a decade of research experience. I'm a continuous learner and I strive to keep up to date with modern technologies in data science. So, here is my playground where I play with various tools by doing some small personal projects. If you are interested in my other work-related projects, you could have a look at <a href="https://github.com/handetopa">here</a>.
 </p> 
 
 ********************************
