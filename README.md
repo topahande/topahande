@@ -5,7 +5,7 @@
 <p align="left">
 I'm a statistician, data scientist and bioinformatician with over a decade of research experience. I'm a continuous learner and I strive to keep up to date with modern technologies in data science. So, here is my playground where I play with different tools by doing some small personal projects.
 
-If you are interested in my other academic, work-related projects which are available elsewhere, you could have a look at <a href="https://github.com/PROBIC/GPrank/tree/master">here</a> for GPrank, which is an R package that can be useful for ranking short time series with uncertain measurements, or <a href="https://github.com/handetopa/hipsci-xci">here</a> for the results of our latest article where we delved deep into the complexities of X chromosome inactivation in human induced pluripotent stem cells.
+If you are interested in my other academic, work-related projects which are available elsewhere, you could have a look at <a href="https://github.com/PROBIC/GPrank/blob/master/inst/doc/vignette.pdf">here</a> for GPrank, which is an R package that can be useful for ranking short time series with uncertain measurements, or <a href="https://github.com/handetopa/hipsci-xci">here</a> for the results of our latest article where we delved deep into the complexities of X chromosome inactivation in human induced pluripotent stem cells.
 
 Currently, I'm also attending Hive Helsinki to expand my skills further in programming, which is quite refreshing! :)
 </p> 
